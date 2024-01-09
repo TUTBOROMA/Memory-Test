@@ -2,6 +2,7 @@ import pygame
 import random
 import time
 import keyboard
+print("Project Start")
 pygame.font.init()
 sc = pygame.display.set_mode((1200, 700))
 sc.fill((0, 255, 160))
